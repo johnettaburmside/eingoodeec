@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://abacuraelo.malmenpower.com/sitemap.xml
